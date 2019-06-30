@@ -1,4 +1,5 @@
 # hello-world
 My first repository 
 
-Stiles here, I am currently learning Python3 and can't wait to share my ideas!
+Stiles here, I like long walks on the beach
+and slow dancing in the rain!
